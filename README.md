@@ -16,9 +16,9 @@ python simple_analysis.py
 
 ## Files
 
-- `sensor_data.csv`: Input data
+- `sensor_data.xlsx`: Input data
 - `simple_analysis.py`: Analysis script
-- `sensor_data_analyzed.csv`: Output results
+- `sensor_data_analyzed.xlsx`: Output results
 
 ## What It Does
 
